@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/Programacion_Orientada_A_Objetos.iml" filepath="$PROJECT_DIR$/.idea/Programacion_Orientada_A_Objetos.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Sesion3/Sesion3.iml" filepath="$PROJECT_DIR$/Sesion3/Sesion3.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Sesion7/Sesion7.iml" filepath="$PROJECT_DIR$/Sesion7/Sesion7.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Practica_Sistematico1/hola.iml" filepath="$PROJECT_DIR$/Practica_Sistematico1/hola.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Sesion2/hola22.iml" filepath="$PROJECT_DIR$/Sesion2/hola22.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Sesion4/hola56.iml" filepath="$PROJECT_DIR$/Sesion4/hola56.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Practica1/mayor.iml" filepath="$PROJECT_DIR$/Practica1/mayor.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Practica2/untitled.iml" filepath="$PROJECT_DIR$/Practica2/untitled.iml" />
+      <module fileurl="file://$PROJECT_DIR$/untitled1/untitled1.iml" filepath="$PROJECT_DIR$/untitled1/untitled1.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Practica3/untitled2.iml" filepath="$PROJECT_DIR$/Practica3/untitled2.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Practica4/untitled3.iml" filepath="$PROJECT_DIR$/Practica4/untitled3.iml" />
+    </modules>
+  </component>
+</project>
